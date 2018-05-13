@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\Invantory.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\Invantory.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap3.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap4.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap5.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap6.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap7.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap8.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap9.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap10.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap11.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap12.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap13.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap14.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap15.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap16.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap17.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap18.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap19.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap20.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap21.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap22.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap23.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap24.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap25.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap26.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap27.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap28.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap29.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap30.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Invantory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InvantoryDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Menu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KuCunAdd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KunCunRenew.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KuCunTJ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KuCunHistory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KuCunUpdata.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DDadd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DDSUD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KuCunSearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DDTJ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Profit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Customer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomerBJ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shockwaveflash1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinPlusPlus.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Invantory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InvantoryDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Menu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KuCunAdd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KunCunRenew.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KuCunTJ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KuCunHistory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KuCunUpdata.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DDadd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DDSUD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KuCunSearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DDTJ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Profit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Customer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomerBJ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shockwaveflash1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Invantory.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

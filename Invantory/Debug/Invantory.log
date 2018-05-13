@@ -1,0 +1,48 @@
+﻿生成启动时间为 2017/3/1 22:37:46。
+     1>项目“D:\用户目录\Documents\Visual Studio 2010\Projects\Invantory\Invantory\Invantory.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Invantory.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\MySQL\MySQL Server 5.7\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Invantory.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Invantory.cpp InvantoryDlg.cpp
+         InvantoryDlg.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         Invantory.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\用户目录\Documents\Visual Studio 2010\Projects\Invantory\Debug\Invantory.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\MySQL\MySQL Server 5.7\lib" libmysql.lib /MANIFEST /ManifestFile:"Debug\Invantory.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\用户目录\Documents\Visual Studio 2010\Projects\Invantory\Debug\Invantory.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\用户目录\Documents\Visual Studio 2010\Projects\Invantory\Debug\Invantory.lib" /MACHINE:X86 Debug\Invantory.res
+         Debug\Invantory.exe.embed.manifest.res
+         Debug\Customer.obj
+         Debug\CustomerBJ.obj
+         Debug\C_Menu.obj
+         Debug\DDadd.obj
+         Debug\DDSUD.obj
+         Debug\DDTJ.obj
+         Debug\Invantory.obj
+         Debug\InvantoryDlg.obj
+         Debug\KuCunAdd.obj
+         Debug\KuCunHistory.obj
+         Debug\KuCunSearch.obj
+         Debug\KuCunTJ.obj
+         Debug\KuCunUpdata.obj
+         Debug\KunCunRenew.obj
+         Debug\Profit.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Invantory.exe.embed.manifest" /manifest Debug\Invantory.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Invantory.vcxproj -> D:\用户目录\Documents\Visual Studio 2010\Projects\Invantory\Debug\Invantory.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Invantory.unsuccessfulbuild”。
+         正在对“Debug\Invantory.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\用户目录\Documents\Visual Studio 2010\Projects\Invantory\Invantory\Invantory.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.80
